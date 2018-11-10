@@ -16,11 +16,11 @@ public class Wilder {
     this.firstname = firstname;
   }
 
-  public boolean isaware(){
+  public boolean isAware(){
     return this.aware;
   }
 
-  public void setIsaware (boolean aware) {
+  public void setAware (boolean aware) {
     this.aware = aware;
   }
 
